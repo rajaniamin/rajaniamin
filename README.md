@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajani</h1>
 <h3 align="center">Aspiring Java Backend Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaniamin&label=Profile%20views&color=0e75b6&style=flat" alt="rajaniamin" /> </p>
+
 - 🌱 I’m currently learning **Java, Spring Boot**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, DSA**
@@ -20,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajaniamin&show_icons=true&locale=en&layout=compact" alt="rajaniamin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajaniamin&show_icons=true&locale=en" alt="rajaniamin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajaniamin&" alt="rajaniamin" /></p>
