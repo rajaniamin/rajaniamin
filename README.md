@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajani</h1>
-<h3 align="center">Aspiring Java Backend Developer</h3>
+<h2 align="center">Aspiring Java Backend Developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaniamin&label=Profile%20views&color=0e75b6&style=flat" alt="rajaniamin" /> </p>
 
