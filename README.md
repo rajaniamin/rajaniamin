@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, DSA**
+- 💬 Ask me about **HTML, CSS, JavaScript,Java, DSA**
 
 - 📫 How to reach me **rajaniamin8@gmail.com**
 
