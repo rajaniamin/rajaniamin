@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajani</h1>
-<h2 align="center">Aspiring Java Backend Developer</h2>
+<h2 align="center">A self-motivated, hardworking Java Backend Developer, passionate about problem-solving and launching new projects with the ability to translate business requirements into technical solutions. Looking to start my career as a Java Backend Developer with a reputed firm driven by technology.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaniamin&label=Profile%20views&color=0e75b6&style=flat" alt="rajaniamin" /> </p>
 
