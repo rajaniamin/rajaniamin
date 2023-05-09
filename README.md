@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rajaniamin8@gmail.com**
 
-- All my project are available :<a href="https://rajaniamin.github.io" target="blank">PortFolio</a>
+- All my project are available :<a href=".github.io" target="blank">PortFolio</a>
 </p>
 
 - ⚡ Fun fact **Coding often ocupies your mind even when you are doing something else :D**
