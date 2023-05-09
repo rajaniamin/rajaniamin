@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **rajaniamin8@gmail.com**
 
+- All my project are available : https://rajaniamin.github.io
+
 - ⚡ Fun fact **Coding often ocupies your mind even when you are doing something else :D**
 
 <h3 align="left">Connect with me:</h3>
