@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, I'm Rajani</h1>
-<div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;&color=cyan&center=true" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Rajani+VC!;Java+Back-end+Developer;" style="width: 100%;">
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaniamin&label=Profile%20views&color=0e75b6&style=flat" alt="rajaniamin" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring Boot**
+- 🌱 I’m currently learning **Java Backend and Frontend Technologies**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, DSA, MySQL, Spring, SpringBoot, Hibernate**
 
 - 📫 How to reach me **rajaniamin8@gmail.com**
 
 - 💬 All my project are available :**[Portfolio](https://rajaniamin.github.io/)**
-</p>
 
-- ⚡ Fun fact **Coding often ocupies your mind even when you are doing something else :D**
+  </p>
+
+- ⚡ Fun fact **Coding often occupies your mind even when you are doing something else :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +28,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajaniamin&show_icons=true&locale=en&layout=compact"&theme=algolia alt="rajaniamin" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajaniamin&show_icons=true&locale=en" alt="rajaniamin" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajaniamin&" alt="rajaniamin" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajaniamin&show_icons=true&locale=en" alt="rajaniamin" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajaniamin&" alt="rajaniamin" /></p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting!+😊&font=Fira%20Code&center=true&width=700&height=50&weight=600&size=18&duration=2000&pause=2000"> </p>
