@@ -1,6 +1,6 @@
 
 <img src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif" style=" width:100%;">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=EE82EF&amp;size=20&amp;lines=Hey!+It's+me+Rajani+VC!;Java+Back-end+Developer;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+me+Rajani+VC!;Java+Back-end+Developer;" style="width: 100%;">
 
 
 
